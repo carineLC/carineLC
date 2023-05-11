@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=carineLC)](https://git.io/streak-stats)
-
 <!--
 **carineLC/carineLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
